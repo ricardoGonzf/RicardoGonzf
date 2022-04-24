@@ -1,6 +1,4 @@
 Hi! I'm
 # Ricardo González
 
-With the age of 13 years, i code web pages (mostly on php), but i also code on arduino and very rare times on javascript. I started coding on 2018, on Scratch and now, in 2021 i coded near 30 projects! I now work on VitezaCloud, as a manager.
-Some of my most knowed projects are: VitezaCloud, SayHost, CatCatGo and Hackers Honey Pot.
-I am actually re-starting to code, as i taked a "long vacation" this summer, so yeah)
+I’m a young Spanish web coder, taking my first steps into this world back in 2018. Starting on Scratch, I’ve later expanded to working with PHP, Arduino and Javascript. Up until now I’ve taken part in near 20 projects, some of them being SayHost, CatCatGo, Hackers Honey Pot and VitezaCloud, on wich I’m currently working as a manager
